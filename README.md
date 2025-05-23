@@ -1,5 +1,6 @@
 ## 🗂️ Project Structure
 
+```plaintext
 neural-style-transfer/
 ├── notebooks/
 │   └── neural_style_transfer.ipynb   # Main Colab notebook
@@ -16,9 +17,9 @@ neural-style-transfer/
 ├── requirements.txt                  # Python dependencies
 ├── results/                          
 ├── ABOUT.md                          # About the project
-├── README.md                         # This file
-
----
+├── README.md  
+└── ...
+```
 
 ## 🚀 Installation
 
