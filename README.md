@@ -26,7 +26,6 @@ neural-style-transfer/
 Option 1: On Google Colab
 
 1. Open the Notebook  
-   Click this link: [Google Colab Notebook](https://colab.research.google.com/)  
 
 2. Upload Images  
    Upload your content and style images as instructed in the notebook.
