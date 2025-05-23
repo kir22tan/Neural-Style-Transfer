@@ -4,16 +4,16 @@
 neural-style-transfer/
 ├── notebooks/
 │   └── neural_style_transfer.ipynb   # Main Colab notebook
-│   └── collab                        # Google Collab link
+│   └── collab                        
 ├── presentation/
 │   └── ppt.pptx                      
 ├── references/
 │   └── Ppr1.pdf                      #by Leon A. Gatys
 │   └── Ppr2.pdf                      #by Kapil Kashyap
 ├── src/
-│   └── utils.py	                    #Image loading and displaying
-│   └── model.py	                    #Loss functions, model builder, and optimization
-│   └── main.py	                    #Run the pipeline: load images → transfer style → show output
+│   └── utils.py	                    
+│   └── model.py	                    
+│   └── main.py	                    
 ├── requirements.txt                  # Python dependencies
 ├── results/                          
 ├── ABOUT.md                          # About the project
