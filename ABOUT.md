@@ -65,11 +65,7 @@ This is achieved by:
 
 - The project demonstrates successful style transfer on diverse image pairs.
 - **Multi-style transfer** is also supported.
-- See results in `data/sample_images/`.
-
-| Content | Style | Output |
-|--------|-------|--------|
-| ![](data/sample_images/content.jpg) | ![](data/sample_images/style.jpg) | ![](data/sample_images/output.jpg) |
+- See results in `results/`.
 
 ---
 
