@@ -42,7 +42,7 @@ Option 2: Locally (if you have the code and dependencies)
 
 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/neural-style-transfer.git
+git clone https://github.com/kir22tan/neural-style-transfer.git
 cd neural-style-transfer
 ```
 
