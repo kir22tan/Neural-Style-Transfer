@@ -56,6 +56,8 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
-
-Open `notebooks/neural_style_transfer.ipynb` and follow the instructions in the notebook cells.
+---
+```plaintext
+Also visit the ABOUT page for more details regarding the project.
+```
 ---
