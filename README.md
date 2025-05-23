@@ -11,9 +11,9 @@ neural-style-transfer/
 │   └── Ppr1.pdf                      #by Leon A. Gatys
 │   └── Ppr2.pdf                      #by Kapil Kashyap
 ├── src/
-│   └── utils.py	                  #Image loading and displaying
-│   └── model.py	                  #Loss functions, model builder, and optimization
-│   └── main.py	                      #Run the pipeline: load images → transfer style → show output
+│   └── utils.py	                    #Image loading and displaying
+│   └── model.py	                    #Loss functions, model builder, and optimization
+│   └── main.py	                    #Run the pipeline: load images → transfer style → show output
 ├── requirements.txt                  # Python dependencies
 ├── results/                          
 ├── ABOUT.md                          # About the project
@@ -58,6 +58,6 @@ jupyter notebook
 ```
 ---
 ```plaintext
-Also visit the ABOUT page for more details regarding the project.
+...Also visit the ABOUT page for more details regarding the project.
 ```
 ---
